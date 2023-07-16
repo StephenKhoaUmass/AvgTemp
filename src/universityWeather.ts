@@ -7,6 +7,7 @@ interface AverageTemperatureResults {
   [key: string]: number;
 }
 
+//I wrote this on my own
 export function fetchUniversityWeather(
   universityQuery: string,
   transformName?: (s: string) => string
