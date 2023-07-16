@@ -1,3 +1,4 @@
+//I wrote this on my own
 import { fetchJSON } from "../include/fetchJSON.js";
 
 export interface GeoCoord {
